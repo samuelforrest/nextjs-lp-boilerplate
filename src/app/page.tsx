@@ -1,5 +1,5 @@
-// nextjs-lp-boilerplate/src/app/page.tsx
-// This file will be replaced/overwritten by the AI-generated React component.
+// src/app/page.tsx
+// This file will be entirely replaced/overwritten by the AI-generated React component.
 // The AI is instructed to generate a single default-exported component named 'LandingPage'.
 
 import React from 'react';
